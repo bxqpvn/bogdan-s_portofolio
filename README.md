@@ -9,11 +9,11 @@ My role was to represent the financial flow analysis by creating a dashboard tha
 
 From analyzing the charts, we can draw the following conclusions:
 
-- The Churn Rate is very high in certain months, such as April (69.8%), indicating an issue with customer retention.
-- MRR (Monthly Recurring Revenue) and user count grow together, but user growth may slow in some months.
-- Customer Lifetime Value (CLV) decreases as user numbers increase, suggesting new users may be less valuable.
-- The MRR Expansion vs Contraction shows overall revenue growth but significant losses in one month ($919).
-- Comparisons between games reveal large variations in customer value and lifetime. Game 3 has a much higher CLV than others.
+1. The Churn Rate is very high in certain months, such as April (69.8%), indicating an issue with customer retention.
+2. MRR (Monthly Recurring Revenue) and user count grow together, but user growth may slow in some months.
+3. Customer Lifetime Value (CLV) decreases as user numbers increase, suggesting new users may be less valuable.
+4. The MRR Expansion vs Contraction shows overall revenue growth but significant losses in one month ($919).
+5. Comparisons between games reveal large variations in customer value and lifetime. Game 3 has a much higher CLV than others.
 This indicates a need for strategic interventions to improve both retention and customer value.
 
 The final conclusion would be that we need to focus on reducing the churn rate, especially in months with high values. This can be achieved by improving the user experience and offering loyalty incentives.
