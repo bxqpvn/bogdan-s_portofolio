@@ -1,6 +1,6 @@
 # Revenue Metrics Dashboard (SQL + Tableau)
 
-### [Tableau Dashboard]([https://www.example.com](https://public.tableau.com/views/ProiectRevenueMetrics_17285775370570/RevenueMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+### [Tableau Dashboard](https://public.tableau.com/views/ProiectRevenueMetrics_17285775370570/RevenueMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 My role was to represent the financial flow analysis by creating a dashboard that allows us to track and analyze the financial data, including revenue, expenses and profit, aiming to help project managers develop strategies at increasing revenue and optimizing business processes.
 - Utilized the SQL (DBeaver) to query the data base, making several grouped and ordered subqueries, aggregation functions, joins between CTEs, to calculate some revenue metrics.
 - Exported the result as a csv file and imported it into Tableau to create visualizations that include calculated fields such as MRR, ARPPU, Churn Rate and Customer Lifetime Value.
